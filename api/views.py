@@ -5,7 +5,7 @@ from .models import Stand
 from .serializers import StandSerializer
 
 
-class StandViewSet(viewsets.ModelViewSet):
+class StandViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Stand.objects.all()
     serializer_class = StandSerializer
 
