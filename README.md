@@ -3,7 +3,7 @@
 
 Written in [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/) using the [Django REST framework](https://www.django-rest-framework.org/) and deployed on [heroku](https://heroku.com/) at: https://jojo-stand-stats.herokuapp.com/
 
-By default, the project uses the [Browsable API](https://www.django-rest-framework.org/topics/browsable-api/) when open with a web browser, you can use (?[format=json](https://jojo-stand-stats.herokuapp.com//?format=json) to view the raw json.
+By default, the project uses the [Browsable API](https://www.django-rest-framework.org/topics/browsable-api/) when open with a web browser, you can use [?format=json](https://jojo-stand-stats.herokuapp.com/?format=json) to view the raw json.
 
 The api that returns stands names, power, speed, range, stamina, precision and development potential
 
