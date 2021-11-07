@@ -3,8 +3,13 @@ from rest_framework import routers
 
 from . import views
 
-router = routers.DefaultRouter()
-router.register(r'api', views.StandViewSet)
+
+class CodicesRouter(routers.DefaultRouter):
+    APIRootView = views.CodicesApisView()
+
+
+router = CodicesRouter()
+router.register(r'jojo', views.StandViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
