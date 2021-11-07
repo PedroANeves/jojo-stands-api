@@ -1,0 +1,2342 @@
+[
+    {
+        "model": "api.stand",
+        "pk": 1,
+        "fields": {
+            "stand_name": "Anubis",
+            "stand_user": "Caravan Serai",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 2,
+        "fields": {
+            "stand_name": "Atum",
+            "stand_user": "Telence T. D'Arby",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 3,
+        "fields": {
+            "stand_name": "Bastet",
+            "stand_user": "Mariah",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 4,
+        "fields": {
+            "stand_name": "Cream",
+            "stand_user": "Vanilla Ice",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 5,
+        "fields": {
+            "stand_name": "Death Thirteen",
+            "stand_user": "Mannish Boy",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "E",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 6,
+        "fields": {
+            "stand_name": "Geb",
+            "stand_user": "N'Doul",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 7,
+        "fields": {
+            "stand_name": "High Priestess",
+            "stand_user": "Midler",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 8,
+        "fields": {
+            "stand_name": "Horus",
+            "stand_user": "Pet Shop",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 9,
+        "fields": {
+            "stand_name": "Judgement",
+            "stand_user": "Cameo",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 10,
+        "fields": {
+            "stand_name": "Khnum",
+            "stand_user": "Oingo",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 11,
+        "fields": {
+            "stand_name": "Osiris",
+            "stand_user": "Daniel J. D'Arby",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "D",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 12,
+        "fields": {
+            "stand_name": "Sethan",
+            "stand_user": "Alessi",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "D",
+            "range_stat": "E",
+            "stamina_stat": "C",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 13,
+        "fields": {
+            "stand_name": "Tenore Sax",
+            "stand_user": "Kenny G.",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 14,
+        "fields": {
+            "stand_name": "Tohth",
+            "stand_user": "Boingo",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 15,
+        "fields": {
+            "stand_name": "Dark Blue Moon",
+            "stand_user": "Captain Tennille",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 16,
+        "fields": {
+            "stand_name": "Emperor",
+            "stand_user": "Hol Horse",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 17,
+        "fields": {
+            "stand_name": "Ebony Devil",
+            "stand_user": "Devo the Cursed",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "D",
+            "range_stat": "A",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 18,
+        "fields": {
+            "stand_name": "Empress",
+            "stand_user": "Nena",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 19,
+        "fields": {
+            "stand_name": "Hanged Man",
+            "stand_user": "J. Geil",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 20,
+        "fields": {
+            "stand_name": "Hermit Purple",
+            "stand_user": "Joseph Joestar",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 21,
+        "fields": {
+            "stand_name": "Hierophant Green",
+            "stand_user": "Noriaki Kakyoin",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 22,
+        "fields": {
+            "stand_name": "Justice",
+            "stand_user": "Enya the Hag",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 23,
+        "fields": {
+            "stand_name": "Lovers",
+            "stand_user": "Steely Dan",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "D",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 24,
+        "fields": {
+            "stand_name": "Magician's Red",
+            "stand_user": "Muhammad Avdol",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 25,
+        "fields": {
+            "stand_name": "Silver Chariot",
+            "stand_user": "Jean Pierre Polnareff",
+            "stand_part": 3,
+            "destructive_power_stat": "C",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "B",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 26,
+        "fields": {
+            "stand_name": "Star Platinum",
+            "stand_user": "Jotaro Kujo",
+            "stand_part": 3,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 27,
+        "fields": {
+            "stand_name": "Strength",
+            "stand_user": "Forever",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "D",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 28,
+        "fields": {
+            "stand_name": "Sun",
+            "stand_user": "Arabia Fats",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 29,
+        "fields": {
+            "stand_name": "The Fool",
+            "stand_user": "Iggy",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 30,
+        "fields": {
+            "stand_name": "The World",
+            "stand_user": "DIO",
+            "stand_part": 3,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "B",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 31,
+        "fields": {
+            "stand_name": "Tower of Gray",
+            "stand_user": "Gray Fly",
+            "stand_part": 3,
+            "destructive_power_stat": "E",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 32,
+        "fields": {
+            "stand_name": "Wheel of Fortune",
+            "stand_user": "ZZ",
+            "stand_part": 3,
+            "destructive_power_stat": "B",
+            "speed_stat": "D",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 33,
+        "fields": {
+            "stand_name": "Yellow Temperance",
+            "stand_user": "Rubber Soul",
+            "stand_part": 3,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 34,
+        "fields": {
+            "stand_name": "Achtung Baby",
+            "stand_user": "Shizuka Joestar",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 35,
+        "fields": {
+            "stand_name": "Aqua Necklace",
+            "stand_user": "Anjuro Katagiri",
+            "stand_part": 4,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 36,
+        "fields": {
+            "stand_name": "Atom Heart Father",
+            "stand_user": "Yoshihiro Kira",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 37,
+        "fields": {
+            "stand_name": "Bad Company",
+            "stand_user": "Keicho Nijimura",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 38,
+        "fields": {
+            "stand_name": "Boy II Man",
+            "stand_user": "Ken Oyanagi",
+            "stand_part": 4,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 39,
+        "fields": {
+            "stand_name": "Cheap Trick",
+            "stand_user": "Musazo Kinoto",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 40,
+        "fields": {
+            "stand_name": "Cinderella",
+            "stand_user": "Aya Tsuji",
+            "stand_part": 4,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "C",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 41,
+        "fields": {
+            "stand_name": "Crazy Diamond",
+            "stand_user": "Josuke Hishikata",
+            "stand_part": 4,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "B",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 42,
+        "fields": {
+            "stand_name": "Enigma",
+            "stand_user": "Terunosuke Miyamoto",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 43,
+        "fields": {
+            "stand_name": "Earth Wind and Fire",
+            "stand_user": "Mikitaka Hazekura",
+            "stand_part": 4,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 44,
+        "fields": {
+            "stand_name": "Harvest",
+            "stand_user": "Harvest",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 45,
+        "fields": {
+            "stand_name": "Heaven's Door",
+            "stand_user": "Rohan Kishibe",
+            "stand_part": 4,
+            "destructive_power_stat": "D",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 46,
+        "fields": {
+            "stand_name": "Highway Star",
+            "stand_user": "Yuya Fungami",
+            "stand_part": 4,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 47,
+        "fields": {
+            "stand_name": "Killer Queen",
+            "stand_user": "Yoshikage Kira",
+            "stand_part": 4,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "B",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 48,
+        "fields": {
+            "stand_name": "Sheer Heart Attack",
+            "stand_user": "Yoshikage Kira",
+            "stand_part": 4,
+            "destructive_power_stat": "A",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 49,
+        "fields": {
+            "stand_name": "Bites the Dust",
+            "stand_user": "Yoshikage Kira",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 50,
+        "fields": {
+            "stand_name": "Love Deluxe",
+            "stand_user": "Yukako Yamagishi",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 51,
+        "fields": {
+            "stand_name": "Pearl Jam",
+            "stand_user": "Tonio Trussardi",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 52,
+        "fields": {
+            "stand_name": "Ratt",
+            "stand_user": "Bug-Eaten and Not Bug-Eaten",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 53,
+        "fields": {
+            "stand_name": "Red Hot Chili Pepper",
+            "stand_user": "Akira Otoishi",
+            "stand_part": 4,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 54,
+        "fields": {
+            "stand_name": "Super Fly",
+            "stand_user": "Toyohiro Kanedaichi",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "?",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 55,
+        "fields": {
+            "stand_name": "Surface",
+            "stand_user": "Toshikazu Hazamada",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 56,
+        "fields": {
+            "stand_name": "The Lock",
+            "stand_user": "Tamami Kobayashi",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 57,
+        "fields": {
+            "stand_name": "The Hand",
+            "stand_user": "Okuyasu Nijimura",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 58,
+        "fields": {
+            "stand_name": "Echoes (ACT1)",
+            "stand_user": "Koichi Hirose",
+            "stand_part": 4,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "B",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 59,
+        "fields": {
+            "stand_name": "Echoes (ACT2)",
+            "stand_user": "Koichi Hirose",
+            "stand_part": 4,
+            "destructive_power_stat": "C",
+            "speed_stat": "D",
+            "range_stat": "B",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 60,
+        "fields": {
+            "stand_name": "Echoes (ACT3)",
+            "stand_user": "Koichi Hirose",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 61,
+        "fields": {
+            "stand_name": "Stray Cat",
+            "stand_user": "Tama",
+            "stand_part": 4,
+            "destructive_power_stat": "B",
+            "speed_stat": "E",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 62,
+        "fields": {
+            "stand_name": "Black Sabbath",
+            "stand_user": "Polpo",
+            "stand_part": 5,
+            "destructive_power_stat": "E",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 63,
+        "fields": {
+            "stand_name": "Baby Face",
+            "stand_user": "Melone",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 64,
+        "fields": {
+            "stand_name": "Gold Experience",
+            "stand_user": "Giorno Giovanna",
+            "stand_part": 5,
+            "destructive_power_stat": "C",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "D",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 65,
+        "fields": {
+            "stand_name": "Sticky Fingers",
+            "stand_user": "Bruno Bucciarati",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "D",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 66,
+        "fields": {
+            "stand_name": "Metallica",
+            "stand_user": "Risotto Nero",
+            "stand_part": 5,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 67,
+        "fields": {
+            "stand_name": "Purple Haze",
+            "stand_user": "Pannacotta Fugo",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "E",
+            "precision_stat": "E",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 68,
+        "fields": {
+            "stand_name": "Moody Blues",
+            "stand_user": "Leone Abbacchio",
+            "stand_part": 5,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 69,
+        "fields": {
+            "stand_name": "Sex Pistols",
+            "stand_user": "Guido Mista",
+            "stand_part": 5,
+            "destructive_power_stat": "E",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 70,
+        "fields": {
+            "stand_name": "The Grateful Dead",
+            "stand_user": "Prosciutto",
+            "stand_part": 5,
+            "destructive_power_stat": "B",
+            "speed_stat": "E",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 71,
+        "fields": {
+            "stand_name": "Aerosmith",
+            "stand_user": "Narancia Ghirga",
+            "stand_part": 5,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 72,
+        "fields": {
+            "stand_name": "Beach Boy",
+            "stand_user": "Pesci",
+            "stand_part": 5,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 73,
+        "fields": {
+            "stand_name": "Man in the Mirror",
+            "stand_user": "Illuso",
+            "stand_part": 5,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "D",
+            "precision_stat": "C",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 74,
+        "fields": {
+            "stand_name": "Baby Face (GoGo)",
+            "stand_user": "Melone",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 75,
+        "fields": {
+            "stand_name": "Chariot Requiem",
+            "stand_user": "Jean Pierre Polnareff",
+            "stand_part": 5,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 76,
+        "fields": {
+            "stand_name": "Clash",
+            "stand_user": "Squalo",
+            "stand_part": 5,
+            "destructive_power_stat": "D",
+            "speed_stat": "A",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 77,
+        "fields": {
+            "stand_name": "Echoes (ACT3)",
+            "stand_user": "Koichi Hirose",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 78,
+        "fields": {
+            "stand_name": "Gold Experience Requiem",
+            "stand_user": "Giorno Giovanna",
+            "stand_part": 5,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "∅",
+            "stamina_stat": "∅",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 79,
+        "fields": {
+            "stand_name": "Green Day",
+            "stand_user": "Cioccolata",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 80,
+        "fields": {
+            "stand_name": "King Crimson",
+            "stand_user": "Diavolo",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "E",
+            "stamina_stat": "E",
+            "precision_stat": "?",
+            "development_potential_stat": "?"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 81,
+        "fields": {
+            "stand_name": "Kraft Work",
+            "stand_user": "Sale",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "E",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 82,
+        "fields": {
+            "stand_name": "Little Feet",
+            "stand_user": "Formaggio",
+            "stand_part": 5,
+            "destructive_power_stat": "D",
+            "speed_stat": "B",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 83,
+        "fields": {
+            "stand_name": "Mr.President",
+            "stand_user": "Coco Jumbo",
+            "stand_part": 5,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 84,
+        "fields": {
+            "stand_name": "Notorious B.I.G",
+            "stand_user": "Carne",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "∞",
+            "range_stat": "∞",
+            "stamina_stat": "∞",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 85,
+        "fields": {
+            "stand_name": "Oasis",
+            "stand_user": "Secco",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 86,
+        "fields": {
+            "stand_name": "Rolling Stones",
+            "stand_user": "Scolippi",
+            "stand_part": 5,
+            "destructive_power_stat": "∅",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 87,
+        "fields": {
+            "stand_name": "Soft Machine",
+            "stand_user": "Mario Zucchero",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "C",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 88,
+        "fields": {
+            "stand_name": "Spice Girl",
+            "stand_user": "Trish Una",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 89,
+        "fields": {
+            "stand_name": "Talking Head",
+            "stand_user": "Tiziano",
+            "stand_part": 5,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 90,
+        "fields": {
+            "stand_name": "White Album",
+            "stand_user": "Ghiaccio",
+            "stand_part": 5,
+            "destructive_power_stat": "A",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 91,
+        "fields": {
+            "stand_name": "Whitesnake",
+            "stand_user": "Enrico Pucci",
+            "stand_part": 6,
+            "destructive_power_stat": "?",
+            "speed_stat": "D",
+            "range_stat": "?",
+            "stamina_stat": "A",
+            "precision_stat": "?",
+            "development_potential_stat": "?"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 92,
+        "fields": {
+            "stand_name": "C-Moon",
+            "stand_user": "Enrico Pucci",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "?",
+            "precision_stat": "?",
+            "development_potential_stat": "?"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 93,
+        "fields": {
+            "stand_name": "Jail House Lock",
+            "stand_user": "Miu Miu",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 94,
+        "fields": {
+            "stand_name": "Stone Free",
+            "stand_user": "Jolyne Cujoh",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 95,
+        "fields": {
+            "stand_name": "Goo Goo Dolls",
+            "stand_user": "Gwess",
+            "stand_part": 6,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "D",
+            "precision_stat": "B",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 96,
+        "fields": {
+            "stand_name": "Under World",
+            "stand_user": "Donatello Versus",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "C",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 97,
+        "fields": {
+            "stand_name": "Sky High",
+            "stand_user": "Rikiel",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "B",
+            "stamina_stat": "C",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 98,
+        "fields": {
+            "stand_name": "Star Platinum",
+            "stand_user": "Jotaro Kujo",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 99,
+        "fields": {
+            "stand_name": "Star Platinum: The World",
+            "stand_user": "Jotaro Kujo",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "E",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 100,
+        "fields": {
+            "stand_name": "Bohemian Rhapsody",
+            "stand_user": "Ungalo",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "∞",
+            "stamina_stat": "A",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 101,
+        "fields": {
+            "stand_name": "Burning Down the House",
+            "stand_user": "Emporio Alnino",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "∅",
+            "stamina_stat": "∅",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 102,
+        "fields": {
+            "stand_name": "Diver Down",
+            "stand_user": "Narciso Anasui",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "E",
+            "stamina_stat": "C",
+            "precision_stat": "B",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 103,
+        "fields": {
+            "stand_name": "Dragon's Dream",
+            "stand_user": "Kenzou",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "∅",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 104,
+        "fields": {
+            "stand_name": "Foo Fighters",
+            "stand_user": "Foo Fighters",
+            "stand_part": 6,
+            "destructive_power_stat": "B",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 105,
+        "fields": {
+            "stand_name": "Green, Green Grass of Home",
+            "stand_user": "Green Baby",
+            "stand_part": 6,
+            "destructive_power_stat": "?",
+            "speed_stat": "?",
+            "range_stat": "?",
+            "stamina_stat": "?",
+            "precision_stat": "?",
+            "development_potential_stat": "?"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 106,
+        "fields": {
+            "stand_name": "Highway to Hell",
+            "stand_user": "Thunder McQueen",
+            "stand_part": 6,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "A",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 107,
+        "fields": {
+            "stand_name": "Kiss",
+            "stand_user": "Ermes Costello",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 108,
+        "fields": {
+            "stand_name": "Jumpin' Jack Flash",
+            "stand_user": "Lang Rangler",
+            "stand_part": 6,
+            "destructive_power_stat": "B",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 109,
+        "fields": {
+            "stand_name": "Limp Bizkit",
+            "stand_user": "Sports Maxx",
+            "stand_part": 6,
+            "destructive_power_stat": "∅",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 110,
+        "fields": {
+            "stand_name": "Made in Heaven",
+            "stand_user": "Enrico Pucci",
+            "stand_part": 6,
+            "destructive_power_stat": "B",
+            "speed_stat": "∞",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 111,
+        "fields": {
+            "stand_name": "Manhattan Transfer",
+            "stand_user": "Johngalli A.",
+            "stand_part": 6,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 112,
+        "fields": {
+            "stand_name": "Marilyn Manson",
+            "stand_user": "Miraschon",
+            "stand_part": 6,
+            "destructive_power_stat": "E",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 113,
+        "fields": {
+            "stand_name": "Planet Waves",
+            "stand_user": "Viviano Westwood",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 114,
+        "fields": {
+            "stand_name": "Survivor",
+            "stand_user": "Guccio",
+            "stand_part": 6,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 115,
+        "fields": {
+            "stand_name": "Weather Report",
+            "stand_user": "Wes Bluemarine",
+            "stand_part": 6,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 116,
+        "fields": {
+            "stand_name": "Yo-Yo Ma",
+            "stand_user": "D and G",
+            "stand_part": 6,
+            "destructive_power_stat": "C",
+            "speed_stat": "D",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 117,
+        "fields": {
+            "stand_name": "20th Century Boy",
+            "stand_user": "Magent Magent",
+            "stand_part": 7,
+            "destructive_power_stat": "∅",
+            "speed_stat": "C",
+            "range_stat": "∅",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 118,
+        "fields": {
+            "stand_name": "Ball Breaker",
+            "stand_user": "Gyro Zeppeli",
+            "stand_part": 7,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 119,
+        "fields": {
+            "stand_name": "Boku no Rhythm wo Kiitekure",
+            "stand_user": "Oyecomova",
+            "stand_part": 7,
+            "destructive_power_stat": "B",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 120,
+        "fields": {
+            "stand_name": "Catch the Rainbow",
+            "stand_user": "Blackmore",
+            "stand_part": 7,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "B",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 121,
+        "fields": {
+            "stand_name": "Chocolate Disco",
+            "stand_user": "D-I-S-C-O",
+            "stand_part": 7,
+            "destructive_power_stat": "∅",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "A",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 122,
+        "fields": {
+            "stand_name": "Civil War",
+            "stand_user": "Axl RO",
+            "stand_part": 7,
+            "destructive_power_stat": "∅",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "∅"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 123,
+        "fields": {
+            "stand_name": "Cream Starter",
+            "stand_user": "Hot Pants",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 124,
+        "fields": {
+            "stand_name": "Dirty Deeds Done Dirt Cheap",
+            "stand_user": "Funny Valentine",
+            "stand_part": 7,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 125,
+        "fields": {
+            "stand_name": "D4C Love Train",
+            "stand_user": "Funny Valentine",
+            "stand_part": 7,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 126,
+        "fields": {
+            "stand_name": "Hey Ya!",
+            "stand_user": "Pocoloco",
+            "stand_part": 7,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 127,
+        "fields": {
+            "stand_name": "In a Silent Way",
+            "stand_user": "Sandman",
+            "stand_part": 7,
+            "destructive_power_stat": "C",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 128,
+        "fields": {
+            "stand_name": "Mandom",
+            "stand_user": "Ringo Roadagain",
+            "stand_part": 7,
+            "destructive_power_stat": "∅",
+            "speed_stat": "A",
+            "range_stat": "∅",
+            "stamina_stat": "E",
+            "precision_stat": "∅",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 129,
+        "fields": {
+            "stand_name": "Oh! Lonesome Me",
+            "stand_user": "Mountain Tim",
+            "stand_part": 7,
+            "destructive_power_stat": "E",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 130,
+        "fields": {
+            "stand_name": "Scary Monsters",
+            "stand_user": "Dr. Ferdinand and Diego Brando",
+            "stand_part": 7,
+            "destructive_power_stat": "B",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "C",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 131,
+        "fields": {
+            "stand_name": "Sugar Mountain",
+            "stand_user": "Sugar Mountain",
+            "stand_part": 7,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 132,
+        "fields": {
+            "stand_name": "Tatoo You!",
+            "stand_user": "Eleven Man",
+            "stand_part": 7,
+            "destructive_power_stat": "∅",
+            "speed_stat": "E",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 133,
+        "fields": {
+            "stand_name": "Ticket to Ride",
+            "stand_user": "Lucy Steel",
+            "stand_part": 7,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "E",
+            "stamina_stat": "C",
+            "precision_stat": "E",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 134,
+        "fields": {
+            "stand_name": "Tomb of the Boom 1 2 3",
+            "stand_user": "Benjamin, Andre and L.A. Boomboom",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "C",
+            "range_stat": "C",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 135,
+        "fields": {
+            "stand_name": "Tubular Bells",
+            "stand_user": "Mike O.",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "D",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 136,
+        "fields": {
+            "stand_name": "Tusk ACT1",
+            "stand_user": "Johnny Joestar",
+            "stand_part": 7,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 137,
+        "fields": {
+            "stand_name": "Tusk ACT2",
+            "stand_user": "Johnny Joestar",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "D",
+            "range_stat": "B",
+            "stamina_stat": "C",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 138,
+        "fields": {
+            "stand_name": "Tusk ACT3",
+            "stand_user": "Johnny Joestar",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "D",
+            "range_stat": "B",
+            "stamina_stat": "D",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 139,
+        "fields": {
+            "stand_name": "Tusk ACT4",
+            "stand_user": "Johnny Joestar",
+            "stand_part": 7,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "B",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 140,
+        "fields": {
+            "stand_name": "Wired",
+            "stand_user": "Pork Pie Hat",
+            "stand_part": 7,
+            "destructive_power_stat": "D",
+            "speed_stat": "B",
+            "range_stat": "B",
+            "stamina_stat": "B",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 141,
+        "fields": {
+            "stand_name": "Born This Way",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 142,
+        "fields": {
+            "stand_name": "California King Bed",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "E",
+            "stamina_stat": "B",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 143,
+        "fields": {
+            "stand_name": "Fun Fun Fun",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "E",
+            "speed_stat": "C",
+            "range_stat": "D",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 144,
+        "fields": {
+            "stand_name": "Nut King Call",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "C",
+            "speed_stat": "D",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 145,
+        "fields": {
+            "stand_name": "Paisley Park",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "∅",
+            "speed_stat": "∅",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 146,
+        "fields": {
+            "stand_name": "Paper Moon King",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "E",
+            "speed_stat": "E",
+            "range_stat": "C",
+            "stamina_stat": "C",
+            "precision_stat": "B",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 147,
+        "fields": {
+            "stand_name": "Soft & Wet",
+            "stand_user": "x",
+            "stand_part": 8,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "D",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "A"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 148,
+        "fields": {
+            "stand_name": "Manic Depression",
+            "stand_user": "Massimo Volpe",
+            "stand_part": 2,
+            "destructive_power_stat": "C",
+            "speed_stat": "A",
+            "range_stat": "E",
+            "stamina_stat": "B",
+            "precision_stat": "B",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 149,
+        "fields": {
+            "stand_name": "Voodoo Child",
+            "stand_user": "Sheila E.",
+            "stand_part": 2,
+            "destructive_power_stat": "B",
+            "speed_stat": "A",
+            "range_stat": "E",
+            "stamina_stat": "E",
+            "precision_stat": "B",
+            "development_potential_stat": "B"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 150,
+        "fields": {
+            "stand_name": "All Along Watchtower",
+            "stand_user": "Cannolo Murolo",
+            "stand_part": 2,
+            "destructive_power_stat": "C",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "A",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 151,
+        "fields": {
+            "stand_name": "Dolly Dagger",
+            "stand_user": "Vittorio Cataldi",
+            "stand_part": 2,
+            "destructive_power_stat": "A",
+            "speed_stat": "A",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "B",
+            "development_potential_stat": "C"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 152,
+        "fields": {
+            "stand_name": "Nightbird Flying",
+            "stand_user": "Angelica Attanasio",
+            "stand_part": 2,
+            "destructive_power_stat": "E",
+            "speed_stat": "A",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 153,
+        "fields": {
+            "stand_name": "Purple Haze Distortion",
+            "stand_user": "Pannacotta Fugo",
+            "stand_part": 2,
+            "destructive_power_stat": "A",
+            "speed_stat": "B",
+            "range_stat": "E",
+            "stamina_stat": "E",
+            "precision_stat": "C",
+            "development_potential_stat": "?"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 154,
+        "fields": {
+            "stand_name": "Rainy Day Dream Away",
+            "stand_user": "Vladimir Kocaqi",
+            "stand_part": 2,
+            "destructive_power_stat": "E",
+            "speed_stat": "B",
+            "range_stat": "A",
+            "stamina_stat": "A",
+            "precision_stat": "E",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 155,
+        "fields": {
+            "stand_name": "Remote Romance",
+            "stand_user": "Dixie Flatline",
+            "stand_part": 1,
+            "destructive_power_stat": "E",
+            "speed_stat": "D",
+            "range_stat": "∞",
+            "stamina_stat": "B",
+            "precision_stat": "C",
+            "development_potential_stat": "E"
+        }
+    },
+    {
+        "model": "api.stand",
+        "pk": 156,
+        "fields": {
+            "stand_name": "House of Holy",
+            "stand_user": "Dija Maker",
+            "stand_part": 1,
+            "destructive_power_stat": "E",
+            "speed_stat": "B",
+            "range_stat": "C",
+            "stamina_stat": "A",
+            "precision_stat": "D",
+            "development_potential_stat": "D"
+        }
+    }
+]
