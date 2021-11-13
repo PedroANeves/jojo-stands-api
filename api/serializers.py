@@ -5,7 +5,7 @@ from api.models import Stand
 class StandSerializer(serializers.HyperlinkedModelSerializer):
     STAND = serializers.CharField(source='stand_name')
     # USER = serializers.CharField(source='stand_user')
-    PART = serializers.CharField(source='stand_part')
+    PART = serializers.IntegerField(source='stand_part')
     PWR = serializers.CharField(source='destructive_power_stat')
     SPD = serializers.CharField(source='speed_stat')
     RNG = serializers.CharField(source='range_stat')
