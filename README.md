@@ -18,14 +18,16 @@ returns:
 ```
 {
     "id": 1,
-    "url": "https://jojo-stand-stats.herokuapp.com/api/1/",
+    "url": "http://127.0.0.1:8000/jojo/1/",
     "STAND": "Anubis",
-    "PWR": "B",
-    "SPD": "B",
-    "RNG": "E",
-    "STA": "A",
-    "PRC": "E",
-    "DEV": "C"
+    "PART": 3,
+    "atributes": {
+        "PWR": "B",
+        "SPD": "B",
+        "RNG": "E",
+        "STA": "A",
+        "PRC": "E",
+        "DEV": "C"
 }
 ```
 
