@@ -34,6 +34,7 @@ returns:
 JSON field | meaning
 ---|---
 STAND | stand name
+PART | stand first appearance
 PWR | power
 SPD | speed
 RNG | range
@@ -53,3 +54,17 @@ E | Very Poor
 ∅ | None
 ∞ | Infinite
 ? | Unknown
+
+## part values
+
+JSON field | meaning
+---|---
+0 | No part
+1 | Real Life Stand
+2 | Purple Haze Feedback Light Novel
+3 | Part 3, Stardust Crusaders.
+4 | Part 4, Diamond Is Unbreakable.
+5 | Part 5, Golden Wind.
+6 | Part 6, Stone Ocean.
+7 | Part 7, Steel Ball Run.
+8 | Part 8, JoJolion.
